@@ -488,6 +488,9 @@ function netmera() {
 			
 			if (_searchText) {
 				_data[_request.params.searchText] = _searchText;
+				_data[_request.params.sortBy] = "";
+				_data[_request.params.sortOrder] = "";
+			} else {
 				_data[_request.params.sortBy] = _sortBy;
 				_data[_request.params.sortOrder] = _sortOrder;
 			}

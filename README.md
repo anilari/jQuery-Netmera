@@ -3,6 +3,7 @@
 # What is that?
 
 [Netmera] (http://netmera.com) is a cloud platform (PaaS) optimized for mobile applications. Netmera offers a cloud based content & data repository. With simple APIs and mobile SDKs it is easy to store, retrieve, search and query data & content on the cloud.
+
 jQuery-Netmera is a JavaScript plugin based on popular jQuery library. With jQuery-Netmera you can use Netmera Rest API via javascript objects and methods. Thus it is easier and more advantageous to use jQuery-Netmera plugin for pure javascript applications, rather than wrapping Netmera Rest API in your application.
 One of the intended usage of jQuery-Netmera is for HTML5 applications running both on mobile devices and desktops.
 A demo application is also available. Because of [cross-site scripting] (https://developer.mozilla.org/en/http_access_control) limitations in browsers, you can run the demo in modern mobile browsers (such as iPhone Safari). Developers are free to copy and use the code in their applications.

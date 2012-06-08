@@ -461,7 +461,7 @@ function netmera() {
 
 		var _objectName = objectName;
 		var _queries = new Array();
-		var _searchText = {};
+		var _searchText = null;
 		var _max = 10;
 		var _page = 0;
 		var _path = {};

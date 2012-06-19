@@ -173,3 +173,4 @@ This is used for the pagination. It skips page*max results and return the max re
 
 # TODO
 * Netmera Location Documentation
+* Netmera User Documentation
